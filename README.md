@@ -13,7 +13,7 @@ The robot utilizes two Raspberry Pi microcomputers to control the robot while us
 The new design will utilize an Intel NUC instead of two Raspberry Pi's.  This will simplify the design as well as drastically increasing the processing capability of the robot.  This will involve a battery replacement to support the higher voltage requirement of the NUC.  It will also involve a complete revamping of the software in order to more elegantly and efficiently complete localization and navigational tasks.
 
 ## Technical Documentation
-* [Mechanical](https://github.com/SPARC-Auburn/IEEE-SoutheastCon-2019/tree/master/Mechanical-Hardware)
-* [Electrical Hardware](https://github.com/SPARC-Auburn/IEEE-SoutheastCon-2019/tree/master/Electrical-Hardware)
+* [Mechanical](https://github.com/SPARC-Auburn/SARP-Bot/tree/master/Mechanical-Hardware)
+* [Electrical Hardware](https://github.com/SPARC-Auburn/SARP-Bot/tree/master/Electrical-Hardware)
 * [Software](https://github.com/SPARC-Auburn/SARP-Bot-Software)
 
