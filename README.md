@@ -24,10 +24,12 @@ The new design will utilize an Intel NUC instead of two Raspberry Pi's.  This wi
 - [x] Select required electrical component replacements
 - [x] update electrical block diagram
 - [x] Update mechanical CAD
-- [ ] Purchase required parts
-- [ ] 3D Print new brackets
+- [x] Purchase required parts
+- [X] 3D Print new brackets
+- [X] Assemble Mechanical platform
 - [ ] Solder new protoboard for Arduino and Teensy micrcontroller
-- [ ] Assemble and Wire full robot
+- [ ] Wire full robot
+- [ ] Configure Intel NUC with Ubuntu 16.04 and ROS Kinetic
 - [ ] Establish ROS Serial communication with Arduino and Teensy
 - [ ] Implement ROS control of drive motors
 - [ ] Reestablish odemetry from encoders
