@@ -27,12 +27,12 @@ The new design will utilize an Intel NUC instead of two Raspberry Pi's.  This wi
 - [x] Purchase required parts
 - [X] 3D Print new brackets
 - [X] Assemble Mechanical platform
-- [ ] Solder new protoboard for Arduino and Teensy micrcontroller
-- [ ] Wire full robot
-- [ ] Configure Intel NUC with Ubuntu 16.04 and ROS Kinetic
-- [ ] Establish ROS Serial communication with Arduino and Teensy
-- [ ] Implement ROS control of drive motors
-- [ ] Reestablish odemetry from encoders
+- [X] Solder new protoboard for Arduino and Teensy micrcontroller
+- [X] Wire full robot
+- [X] Configure Intel NUC with Ubuntu 16.04 and ROS Kinetic
+- [X] Establish ROS Serial communication with Arduino and Teensy
+- [X] Implement ROS control of drive motors
+- [X] Reestablish odemetry from encoders
 - [ ] Reestablish LIDAR scanning and Gmapping
 - [ ] Reestablish localization via AMCL
 - [ ] Experiment with different navigation algorithms
